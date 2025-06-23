@@ -45,3 +45,22 @@ Password: Min_123
 
 Email: john@sejuk.com
 Password: John_123
+
+
+
+# Challenges that I have faced
+
+Module 3: Notification System Implementation
+The notification system (Module 3) presented significant technical hurdles such as:
+
+Initial Challenges
+
+## WhatsApp API Limitations:
+- WhatsApp's official API requires business verification and approval from Meta
+- Twilio's WhatsApp integration demanded paid subscriptions and complex setup
+- Temporary "click-to-chat" links proved unreliable for automated notifications
+
+## Email Service Issues:
+- Firebase's built-in email service lacked templates and customization
+- SMTP setup with Nodemailer required backend server infrastructure
+- Gmail's security policies blocked automated sending from frontend apps
