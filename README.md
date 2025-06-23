@@ -33,5 +33,15 @@ npm install
 npm start
 ```
 
-## Deployment
-Hosted on Firebase: [Live Demo](https://your-firebase-app.web.app)
+## Used this Demo Account and Password for Login
+Email: admin@sejuk.com
+Password: Admin_123
+
+Email: ali@sejuk.com
+Password: Ali_123
+
+Email: min@sejuk.com
+Password: Min_123
+
+Email: john@sejuk.com
+Password: John_123
